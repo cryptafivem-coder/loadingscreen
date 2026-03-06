@@ -23,7 +23,7 @@ var l_displayMapGamemode = true;
 
 // Nom du serveur personnalisé
 // Laisse vide pour récupérer automatiquement le nom du serveur
-var l_serverName = "Crypta | SCP RP";
+var l_serverName = "[FR] Crypta | SCP RP";
 
 // Utiliser une vidéo en fond ?
 // Si false, ce sont des images qui seront utilisées
@@ -41,12 +41,9 @@ var l_bgImageMapBased = false;
 // Place tes images dans backgrounds/images/
 // Tu peux aussi utiliser des URLs externes
 var l_bgImages = [
-	// Ajoute ici tes images SCP RP :
-	// "scp_site.jpg",
-	// "scp_containment.jpg",
-	"scp1.jpg",
-	"scp2.jpg",
-	"scp3.jpg"
+	"https://i.imgur.com/odsLZNA.png",
+	"https://i.imgur.com/5XiPRKv.jpeg",
+	"https://i.imgur.com/oaZX0lA.jpeg"
 ];
 
 // Ordre aléatoire des images de fond ?
@@ -79,8 +76,7 @@ var l_musicPlaylist = [
 	// {youtube: "https://www.youtube.com/watch?v=XXXXXXX", name: "Nom"},
 	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
 	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
-	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
+	{youtube: "https://www.youtube.com/watch?v=YJaeH8ffl_M", name: "joura - The SCP Foundation Main Theme"},
 ];
 
 // Ordre aléatoire de la playlist ?
