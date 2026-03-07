@@ -71,12 +71,7 @@ var l_musicDisplay = true;
 // Tu peux ajouter des fichiers .ogg (dans le dossier music/)
 // ou des liens YouTube
 var l_musicPlaylist = [
-	// Remplace par ta propre musique SCP si tu veux :
-	// {ogg: "ma_musique.ogg", name: "Nom de la musique"},
-	// {youtube: "https://www.youtube.com/watch?v=XXXXXXX", name: "Nom"},
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "https://www.youtube.com/watch?v=YJaeH8ffl_M", name: "joura - The SCP Foundation Main Theme"},
+	{youtube: "https://www.youtube.com/watch?v=YJaeH8ffl_M", name: "Crypta SCP RP"},
 ];
 
 // Ordre aléatoire de la playlist ?
